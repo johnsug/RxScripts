@@ -1,5 +1,3 @@
-### just some r code
-
 ### help w/ github
 1. load github
 2. use "cd" to move into the  directory you want
@@ -13,4 +11,7 @@ If things aren't working, try:
 2. git add -A (to tag all files)
 3. git push -u origin master
 
-
+### three
+## two
+# one
+blast off
