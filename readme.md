@@ -9,8 +9,8 @@
 
 If things aren't working, try:
 
-git status (checks if your files are tagged)
-git add -A (to tag all files)
-git push -u origin master
+1. git status (checks if your files are tagged)
+2. git add -A (to tag all files)
+3. git push -u origin master
 
 
