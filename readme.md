@@ -8,4 +8,5 @@
 ### If things aren't working, try:
 1. git status (checks if your files are tagged)
 2. git add -A (to tag all files)
-3. git push -u origin master
+3. git commit -m "write commit message here"
+4. git push -u origin master
