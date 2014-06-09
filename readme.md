@@ -6,7 +6,6 @@
 5. pull down the repo via "git pull https://github.com/johnsug/..."
 
 ### If things aren't working, try:
-
 1. git status (checks if your files are tagged)
 2. git add -A (to tag all files)
 3. git push -u origin master
