@@ -7,8 +7,8 @@
 * fitdistrplus
 * forecast
 * gbm
-* ggcounty*
-* ggfortify*
+* ggcounty  -- devtools::install_github("hrbrmstr/ggcounty")
+* ggfortify -- devtools::install_github("sinhrks/ggfortify")
 * ggmap
 * ggplot
 * ggvis
@@ -18,16 +18,18 @@
 * manipulate
 * maps
 * RColorBrewer
+* readr
+* readxl
 * reshape2
 * rmarkdown
 * RWeka
 * shiny
-* shinyapps*
+* shinyapps -- devtools::install_github("rstudio/shinyapps")
 * shinydashboard
 * slidify
 * sqldf
 * stratification
 * tidyr
 * tseries
-* waffle*
+* waffle -- devtools::install_github("hrbrmstr/waffle")
 * xgboost
