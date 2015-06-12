@@ -1,4 +1,4 @@
-### Linux-Based Weka Cheat-Sheet:
+### Weka on the (Linus) Command Line Cheat-Sheet:
 ---
 To **call Weka**, you first must type "java" and then use the command path statement "-cp" to refer to where the Weka jar is located.  If you are in your home directory, you would do this by starting your code with:
 
